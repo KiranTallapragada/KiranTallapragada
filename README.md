@@ -51,7 +51,7 @@ command that starts. [Repository](https://github.com/KiranTallapragada/gpu-fit) 
 | Project | What it answers | |
 |---|---|---|
 | [**gpu-fit**](https://github.com/KiranTallapragada/gpu-fit) | Will this LLM fit on this GPU, how much context, how many users, and what if the GPU is shared? | [![PyPI](https://img.shields.io/pypi/v/gpu-fit?style=flat-square&color=F5B942&labelColor=0B0F17)](https://pypi.org/project/gpu-fit/) |
-| [**gpu-guard**](https://github.com/KiranTallapragada/gpu-guard) *(in development)* | Is your self-hosted LLM really on the GPU? A health check that catches silent CPU fallback, for vLLM, Ollama or any OpenAI-compatible server. | ![Go](https://img.shields.io/badge/Go-0B0F17?style=flat-square&logo=go&logoColor=00ADD8) |
+| [**gpu-guard**](https://github.com/KiranTallapragada/gpu-guard) *(new)* | Is your self-hosted LLM really on the GPU? A health check that catches silent CPU fallback, for vLLM, Ollama or any OpenAI-compatible server. | ![Go](https://img.shields.io/badge/Go-0B0F17?style=flat-square&logo=go&logoColor=00ADD8) |
 
 ### Stack
 
