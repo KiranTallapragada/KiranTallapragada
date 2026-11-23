@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Kiran Tallapragada. I help teams run open LLMs on their own GPUs. Qwen3-8B on an NVIDIA L40S: 15.3 GiB weights, 24.1 GiB KV cache, 175,696 tokens, measured with vLLM 0.31.">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Kiran Tallapragada. I build systems where accuracy matters. Qwen3-8B on an NVIDIA L40S: 15.3 GiB weights, 24.1 GiB KV cache, 175,696 tokens, measured with vLLM 0.31.">
 <defs>
   <pattern id="g" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#1a2233" stroke-width="1"/></pattern>
   <radialGradient id="glow" cx="0.82" cy="0.3" r="0.6"><stop offset="0" stop-color="#f5b942" stop-opacity="0.18"/><stop offset="1" stop-color="#f5b942" stop-opacity="0"/></radialGradient>
@@ -23,10 +23,10 @@
 <rect width="1200" height="340" rx="20" fill="url(#glow)"/>
 <g class="up"><text x="64" y="84" class="m" fill="#f5b942" letter-spacing="3" font-size="13">KIRAN TALLAPRAGADA  ·  AI &amp; PLATFORM ARCHITECT</text></g>
 <g class="up d1 s" font-weight="750" font-size="46" letter-spacing="-1.2">
-  <text x="62" y="146" fill="#e7ebf3">I help teams run open LLMs</text>
-  <text x="62" y="200" fill="url(#hl)">on their own GPUs.</text>
+  <text x="62" y="146" fill="#e7ebf3">I build systems where</text>
+  <text x="62" y="200" fill="url(#hl)">accuracy matters.</text>
 </g>
-<g class="up d2"><text x="64" y="240" class="s" font-size="18" fill="#9aa6bb">Sizing, serving and cost, backed by measured numbers.</text></g>
+<g class="up d2"><text x="64" y="240" class="s" font-size="18" fill="#9aa6bb">Self-hosted LLMs, document AI and AWS, backed by measured numbers.</text></g>
 <g class="chip"><rect x="64" y="268" width="46" height="28" rx="14" fill="none" stroke="#263043"/><text x="87" y="287" class="m" fill="#9aa6bb" text-anchor="middle">vLLM</text></g><g class="chip"><rect x="118.4" y="268" width="92" height="28" rx="14" fill="none" stroke="#263043"/><text x="164" y="287" class="m" fill="#9aa6bb" text-anchor="middle">GPU sizing</text></g><g class="chip"><rect x="218.4" y="268" width="100" height="28" rx="14" fill="none" stroke="#263043"/><text x="268" y="287" class="m" fill="#9aa6bb" text-anchor="middle">Document AI</text></g><g class="chip"><rect x="326.0" y="268" width="107" height="28" rx="14" fill="none" stroke="#263043"/><text x="380" y="287" class="m" fill="#9aa6bb" text-anchor="middle">LLM gateways</text></g><g class="chip"><rect x="441.2" y="268" width="39" height="28" rx="14" fill="none" stroke="#263043"/><text x="461" y="287" class="m" fill="#9aa6bb" text-anchor="middle">AWS</text></g><g class="chip"><rect x="488.0" y="268" width="168" height="28" rx="14" fill="none" stroke="#263043"/><text x="572" y="287" class="m" fill="#9aa6bb" text-anchor="middle">Regulated industries</text></g>
 <g class="up d1">
   <rect x="742" y="44" width="392" height="272" rx="16" fill="#111726" stroke="#263043"/>

@@ -4,7 +4,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-  <img src="assets/hero-dark.svg" width="100%" alt="Kiran Tallapragada, AI and platform architect. I help teams run open LLMs on their own GPUs. Qwen3-8B on one NVIDIA L40S, measured with vLLM 0.31: 15.3 GiB weights, 24.1 GiB KV cache, 175,696 tokens.">
+  <img src="assets/hero-dark.svg" width="100%" alt="Kiran Tallapragada, AI and platform architect. I build systems where accuracy matters. Qwen3-8B on one NVIDIA L40S, measured with vLLM 0.31: 15.3 GiB weights, 24.1 GiB KV cache, 175,696 tokens.">
 </picture>
 </a>
 
@@ -19,6 +19,8 @@
 ### What I do
 
 **Since 2024, CTO:** took AI products from one market to several, including a new international market, and built the 55+ engineering organisation (in-house and partner teams) behind them. **2018 – 2024, global pharma:** Manager to Lead Architect at Associate Director level. **2013 – 2018, e-commerce and digital:** order management and partner onboarding for a large Indian online marketplace, Black Friday features across web, iOS and Android for a major US retailer, and full-stack architecture for global brands at a digital consultancy. Before that, telecom device software (2011 – 2013).
+
+**Also:** As CTO, I’ve built blockchain and smart-contract systems, including a multichain payment gateway with recurring and renewal payments, and non-custodial wallets. I also build low-latency systems in Go and Rust.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/cards-dark.svg">
