@@ -18,7 +18,7 @@
 
 ### What I do
 
-**Since 2024, CTO:** took AI products from one market to several, including a new international market, and built the 55+ engineering organisation (in-house and partner teams) behind them. **2018 – 2024, global pharma:** Manager to Lead Architect at Associate Director level.
+**Since 2024, CTO:** took AI products from one market to several, including a new international market, and built the 55+ engineering organisation (in-house and partner teams) behind them. **2018 – 2024, global pharma:** Manager to Lead Architect at Associate Director level. **2013 – 2018, e-commerce and digital:** order management and partner onboarding for a large Indian online marketplace, Black Friday features across web, iOS and Android for a major US retailer, and full-stack architecture for global brands at a digital consultancy. Before that, telecom device software (2011 – 2013).
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/cards-dark.svg">
