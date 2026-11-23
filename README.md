@@ -20,7 +20,7 @@
 
 **Since 2024, CTO:** took AI products from one market to several, including a new international market, and built the 55+ engineering organisation (in-house and partner teams) behind them. **2018 – 2024, global pharma:** Manager to Lead Architect at Associate Director level. **2013 – 2018, e-commerce and digital:** order management and partner onboarding for a large Indian online marketplace, Black Friday features across web, iOS and Android for a major US retailer, and full-stack architecture for global brands at a digital consultancy. Before that, telecom device software (2011 – 2013).
 
-**Also:** As CTO, I’ve built blockchain and smart-contract systems, including a multichain payment gateway with recurring and renewal payments, and non-custodial wallets. I also build low-latency systems in Go and Rust.
+**Blockchain and cryptocurrency:** non-custodial wallets, automated trading systems, and a multichain payment gateway with automatic renewals and cancellations. Also low-latency systems in Go and Rust.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/cards-dark.svg">
