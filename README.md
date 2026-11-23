@@ -18,6 +18,8 @@
 
 ### What I do
 
+**Since 2024, CTO:** took AI products from one market to several, including a new international market, and built the 55+ engineering organisation (in-house and partner teams) behind them. **2018 – 2024, global pharma:** Manager to Lead Architect at Associate Director level.
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/cards-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/cards-light.svg">
@@ -54,7 +56,7 @@ command that starts. [Repository](https://github.com/KiranTallapragada/gpu-fit) 
 ### Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=py,go,rust,ts,solidity,bash,aws,docker,linux,postgres,redis,nestjs,githubactions,cloudflare&perline=14" width="100%" alt="Python, Go, Rust, TypeScript, Solidity, Bash, AWS, Docker, Linux, PostgreSQL, Redis, NestJS, GitHub Actions, Cloudflare">
+<img src="https://skillicons.dev/icons?i=py,go,rust,ts,bash,aws,docker,linux,postgres,redis,nestjs,githubactions,cloudflare&perline=14" width="100%" alt="Python, Go, Rust, TypeScript, Bash, AWS, Docker, Linux, PostgreSQL, Redis, NestJS, GitHub Actions, Cloudflare">
 </p>
 
 ![vLLM](https://img.shields.io/badge/vLLM-1F5FBF?style=flat-square&logo=vllm&logoColor=white)
@@ -68,4 +70,4 @@ command that starts. [Repository](https://github.com/KiranTallapragada/gpu-fit) 
 - [A 32B model on a 48 GB GPU: what actually fits](https://kirantallapragada.com/2026/11/a-32b-model-on-a-48gb-gpu/)
 <!-- BLOG-POST-LIST:END -->
 
-<sub>Artwork is generated from measured data.</sub>
+<sub>Artwork is generated from measured data. Personal work: examples use public models and public data, with no employer or client names or confidential information. Views are my own.</sub>
